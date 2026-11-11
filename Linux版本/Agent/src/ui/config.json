@@ -1,0 +1,11 @@
+{
+  "base_url": "",
+  "api_key": "",
+  "model": "",
+  "context": 1048576,
+  "workers": 3,
+  "permission": "workspace",
+  "trace_rate": 0.5,
+  "root": "",
+  "provider": "deepseek"
+}
